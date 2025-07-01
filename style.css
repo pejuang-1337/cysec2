@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: #1e293b;
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+}
+
+input, select, button {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  width: 100%;
+}

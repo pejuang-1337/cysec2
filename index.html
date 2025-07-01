@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CYSEC Toolkit</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🔐 CYSEC TOOLKIT</h1>
+    <form method="POST" action="/run">
+      <label>Fitur:</label>
+      <select name="tool">
+        <option value="osint">OSINT</option>
+        <option value="webscan">Web Scan</option>
+        <option value="soceng">Social Engineering</option>
+        <option value="location">Location Tracker</option>
+      </select>
+      <input type="text" name="target" placeholder="Username / URL / Nomor HP" required>
+      <button type="submit">Jalankan</button>
+    </form>
+  </div>
+</body>
+</html>
