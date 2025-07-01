@@ -30,7 +30,7 @@ Tersedia via Replit (gratis):
 ## 🚀 Deploy Lokal
 
 ```bash
-git clone https://github.com/pejuang-1337/cysec1.git
-cd cysec1
+git clone https://github.com/pejuang-1337/cysec2
+cd cysec2
 pip install -r requirements.txt
 python app.py
