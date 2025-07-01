@@ -6,7 +6,10 @@ Toolkit Cyber Security berbasis Python & Flask yang memiliki fitur:
 - 🎭 Social Engineering Simulation
 - 📍 Location Tracker berbasis nomor HP (simulasi)
 
-- cysec_web/
+
+---
+## 📁 STRUKTUR PROJECT
+cysec_web/
 ├── app.py
 ├── requirements.txt
 ├── modules/
@@ -20,8 +23,6 @@ Toolkit Cyber Security berbasis Python & Flask yang memiliki fitur:
 ├── static/
 │   └── style.css
 
-
----
 
 ## 🌐 Demo Online
 Tersedia via Replit (gratis):  
