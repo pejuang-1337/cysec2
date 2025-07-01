@@ -9,8 +9,8 @@ Toolkit Cyber Security berbasis Python & Flask yang memiliki fitur:
 ---
 
 ## 🌐 Demo Online
-Tersedia via Render (gratis):  
-👉 [https://cysec-web.onrender.com](https://cysec-web.onrender.com) *(setelah deploy)*
+Tersedia via Replit (gratis):  
+👉 [https://replit.com/@pejuanh1337/CyberSecurityScanner) *(setelah deploy)*
 
 ---
 
