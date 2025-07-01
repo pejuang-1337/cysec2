@@ -8,20 +8,6 @@ Toolkit Cyber Security berbasis Python & Flask yang memiliki fitur:
 
 
 ---
-## 📁 STRUKTUR PROJECT
-cysec_web/
-├── app.py
-├── requirements.txt
-├── modules/
-│   ├── osint.py
-│   ├── webscan.py
-│   ├── soceng.py
-│   └── location_tracker.py
-├── templates/
-│   ├── index.html
-│   └── result.html
-├── static/
-│   └── style.css
 
 
 ## 🌐 Demo Online
